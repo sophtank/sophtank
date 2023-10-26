@@ -31,7 +31,7 @@ Hello! 👋 I'm Sophie, a senior computer science student with a passion for bio
 ## Contact
 
 - **Email:** [stanker@charlotte.edu (please don't laugh)](stanker@charlotte.edu)
-- **LinkedIn:** [Sophie Tanker](https://www.linkedin.com/in/your-profile)
+- **LinkedIn:** [Sophie Tanker](https://www.linkedin.com/in/sophietanker/)
 - **Learn more about my lab's work:** [RAW Lab Website](https://rawlab.org/)
 
 Feel free to reach out if you'd like to collaborate or discuss anything related to bioinformatics, computer science, or anything science! 🚀🦠🧫🔬
