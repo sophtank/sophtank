@@ -2,13 +2,12 @@
 
 ## Bio
 
-Hello! 👋 I'm Sophie, a senior computer science student with a passion for bioinformatics. I'm enthusiastic about combining computational techniques with wet lab experiments to unravel the mysteries of life sciences. 🧬🔬
+Hello! 👋 I'm Sophie, a bioinformatician. I'm enthusiastic about combining computational techniques with wet lab experiments to unravel the mysteries of life sciences. 🧬🔬
 
 ## Education
 
-- **Current:** Senior Computer Science Student in the Early Entry program for Bioinformatics (Schrodinger's Grad Student)
+- **Current:** M.Sc. Bioinformatics Student
 - **University:** University of North Carolina at Charlotte
-- **Concentration:** Bioinformatics
 
 ## Interests
 
